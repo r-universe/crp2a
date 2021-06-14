@@ -1,0 +1,8 @@
+[
+  {
+    "package": "gamma",
+    "url": "https://github.com/crp2a/gamma",
+    "via": ["gammaShiny"],
+    "from": "gammaShiny"
+  }
+]
