@@ -1,10 +1,13 @@
 [
   {
-    "package": "BayLum",
+    "package": "gamma",
     "oncran": true
   },
   {
-    "package": "gamma",
+    "package": "gammaShiny"
+  },
+  {
+    "package": "BayLum",
     "oncran": true
   }
 ]

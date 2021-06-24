@@ -1,15 +1,23 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/crp2a/universe
 	shallow = true
 	branch = HEAD
-[submodule "BayLum"]
-	path = BayLum
-	url = https://github.com/crp2a/baylum
-	shallow = true
-	registered = true
 [submodule "gamma"]
 	path = gamma
 	url = https://github.com/crp2a/gamma
 	shallow = true
+	branch = master
+	registered = true
+[submodule "gammaShiny"]
+	path = gammaShiny
+	url = https://github.com/crp2a/gammaShiny
+	shallow = true
+	branch = master
+	registered = true
+[submodule "BayLum"]
+	path = BayLum
+	url = https://github.com/crp2a/BayLum
+	shallow = true
+	subdir = master
 	registered = true
