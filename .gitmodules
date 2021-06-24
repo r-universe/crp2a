@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "BayLum"]
+	path = BayLum
+	url = https://github.com/crp2a/baylum
+	shallow = true
+	registered = true
+[submodule "gamma"]
+	path = gamma
+	url = https://github.com/crp2a/gamma
+	shallow = true
+	registered = true

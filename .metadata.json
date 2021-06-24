@@ -1,0 +1,10 @@
+[
+  {
+    "package": "BayLum",
+    "oncran": true
+  },
+  {
+    "package": "gamma",
+    "oncran": true
+  }
+]
