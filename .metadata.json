@@ -9,5 +9,8 @@
   {
     "package": "BayLum",
     "oncran": true
+  },
+  {
+    "package": "bdXdata"
   }
 ]

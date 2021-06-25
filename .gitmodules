@@ -21,3 +21,9 @@
 	shallow = true
 	subdir = master
 	registered = true
+[submodule "bdXdata"]
+	path = bdXdata
+	url = https://github.com/crp2a/bdXdata
+	shallow = true
+	subdir = master
+	registered = true
