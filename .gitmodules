@@ -19,11 +19,11 @@
 	path = BayLum
 	url = https://github.com/crp2a/BayLum
 	shallow = true
-	subdir = master
+	branch = master
 	registered = true
 [submodule "bdXdata"]
 	path = bdXdata
 	url = https://github.com/crp2a/bdXdata
 	shallow = true
-	subdir = master
+	branch = master
 	registered = true
