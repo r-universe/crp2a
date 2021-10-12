@@ -9,6 +9,12 @@
 	shallow = true
 	branch = master
 	registered = true
+[submodule "gammaShiny"]
+	path = gammaShiny
+	url = https://github.com/crp2a/gammaShiny
+	shallow = true
+	branch = master
+	registered = true
 [submodule "BayLum"]
 	path = BayLum
 	url = https://github.com/crp2a/BayLum
