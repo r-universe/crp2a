@@ -1,7 +1,6 @@
 [
   {
-    "package": "gamma",
-    "oncran": true
+    "package": "gamma"
   },
   {
     "package": "gammaShiny"
