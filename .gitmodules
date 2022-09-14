@@ -7,7 +7,7 @@
 	path = gamma
 	url = https://github.com/crp2a/gamma
 	shallow = true
-	branch = master
+	branch = v1.0.3
 	registered = true
 [submodule "gammaShiny"]
 	path = gammaShiny
@@ -18,7 +18,7 @@
 	path = BayLum
 	url = https://github.com/crp2a/BayLum
 	shallow = true
-	branch = master
+	branch = v0.3.1
 	registered = true
 [submodule "Al2O3AnalysisApp"]
 	path = Al2O3AnalysisApp
