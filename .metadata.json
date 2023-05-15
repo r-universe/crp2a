@@ -1,0 +1,10 @@
+[
+  {
+    "package": "gamma",
+    "releasetag": true
+  },
+  {
+    "package": "BayLum",
+    "releasetag": true
+  }
+]
