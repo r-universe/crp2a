@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/crp2a/universe
+	url = https://github.com/crp2a/crp2a.r-universe.dev
 	shallow = true
 	branch = HEAD
 [submodule "gamma"]
