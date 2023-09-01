@@ -1,32 +1,21 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/crp2a/crp2a.r-universe.dev
-	shallow = true
 	branch = HEAD
-[submodule "gamma"]
-	path = gamma
-	url = https://github.com/crp2a/gamma
-	shallow = true
-	branch = v1.0.4
-	registered = true
-[submodule "gammaShiny"]
-	path = gammaShiny
-	url = https://github.com/crp2a/gammaShiny
-	shallow = true
-	registered = true
-[submodule "BayLum"]
-	path = BayLum
-	url = https://github.com/crp2a/BayLum
-	shallow = true
-	branch = v0.3.1
-	registered = true
 [submodule "Al2O3AnalysisApp"]
 	path = Al2O3AnalysisApp
 	url = https://github.com/crp2a/Al2O3_AnalysisApp
-	shallow = true
-	registered = true
+[submodule "BayLum"]
+	path = BayLum
+	url = https://github.com/crp2a/BayLum
+	branch = v0.3.1
 [submodule "bdXdata"]
 	path = bdXdata
 	url = https://github.com/crp2a/bdXdata
-	shallow = true
-	registered = true
+[submodule "gamma"]
+	path = gamma
+	url = https://github.com/crp2a/gamma
+	branch = v1.0.4
+[submodule "gammaShiny"]
+	path = gammaShiny
+	url = https://github.com/crp2a/gammaShiny
