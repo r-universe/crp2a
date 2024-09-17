@@ -9,9 +9,6 @@
 	path = BayLum
 	url = https://github.com/crp2a/BayLum
 	branch = v0.3.2
-[submodule "bdXdata"]
-	path = bdXdata
-	url = https://github.com/crp2a/bdXdata
 [submodule "gamma"]
 	path = gamma
 	url = https://github.com/crp2a/gamma
