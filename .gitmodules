@@ -12,8 +12,8 @@
 [submodule "gamma"]
 	path = gamma
 	url = https://github.com/crp2a/gamma
-	branch = v1.0.5
+	branch = v1.1.0
 [submodule "gammaShiny"]
 	path = gammaShiny
 	url = https://github.com/crp2a/gammaShiny
-	branch = *release
+	branch = v0.2.0
