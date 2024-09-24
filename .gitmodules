@@ -16,3 +16,4 @@
 [submodule "gammaShiny"]
 	path = gammaShiny
 	url = https://github.com/crp2a/gammaShiny
+	branch = *release
