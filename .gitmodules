@@ -8,7 +8,7 @@
 [submodule "BayLum"]
 	path = BayLum
 	url = https://github.com/crp2a/BayLum
-	branch = v0.3.2
+	branch = v0.3.3
 [submodule "gamma"]
 	path = gamma
 	url = https://github.com/crp2a/gamma
