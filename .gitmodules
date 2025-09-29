@@ -4,7 +4,7 @@
 	branch = HEAD
 [submodule "Al2O3AnalysisApp"]
 	path = Al2O3AnalysisApp
-	url = https://github.com/crp2a/Al2O3_AnalysisApp
+	url = https://gitlab.huma-num.fr/archeosciences/Al2O3_AnalysisApp
 [submodule "BayLum"]
 	path = BayLum
 	url = https://github.com/crp2a/BayLum
@@ -15,5 +15,5 @@
 	branch = v1.1.0
 [submodule "gammaShiny"]
 	path = gammaShiny
-	url = https://github.com/crp2a/gammaShiny
+	url = https://gitlab.huma-num.fr/archeosciences/gammaShiny
 	branch = v0.2.0
